@@ -6,11 +6,13 @@ A new Flutter project.
 
 # HOMEPAGE
 
-<img width="726" alt="Ekran Resmi 2022-11-15 11 24 45" src="https://user-images.githubusercontent.com/72785742/201868830-f92b630f-b389-48cf-ba2e-18b72c1cd8b9.png">
+<img width="748" alt="Ekran Resmi 2022-11-15 11 24 21" src="https://user-images.githubusercontent.com/72785742/201868835-b153e14a-569b-4cb8-a8ba-aaf8edfd9e91.png">
 
 # NEWSDETAIL
 
-<img width="748" alt="Ekran Resmi 2022-11-15 11 24 21" src="https://user-images.githubusercontent.com/72785742/201868835-b153e14a-569b-4cb8-a8ba-aaf8edfd9e91.png">
+
+<img width="726" alt="Ekran Resmi 2022-11-15 11 24 45" src="https://user-images.githubusercontent.com/72785742/201868830-f92b630f-b389-48cf-ba2e-18b72c1cd8b9.png">
+
 
 This project is a starting point for a Flutter application.
 
